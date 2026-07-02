@@ -1,4 +1,4 @@
-Arradhya's Minimalist Web Space.
+#Arradhya's Minimalist Web Space.
 In this website I have mentioned about myself like who am I, what are my favourite things, songs, food etc. and which skill do I know and also why and how I started programming.
 Here is a quick bulleted list explaining what a visitor will find if he/she visits:
 1. index.html(Home)- The homepage(Who I am and what I'm doing right now.)
