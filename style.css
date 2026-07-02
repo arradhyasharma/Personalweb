@@ -1,0 +1,89 @@
+img{
+    width: 400px;
+    height: 350px;
+    margin-left: 25px;
+}
+body{
+    background-color:#0F172A;
+    accent-color: #06B6D4;
+    color: #f8fafc;
+    font-family: Inter,Roboto Mono;
+    text-align:left;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 15px;
+}
+li{
+    align-items:left;
+}
+nav{
+    background-color: #1a2f61;
+    padding: 1rem;
+}
+nav ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    display: flex;
+    justify-content: space-around;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    display:block;
+}
+nav ul li a:hover{
+    background-color: #1a4097;
+    border-radius: 20px;
+}
+.visit-button{
+    background-color: #1a2f61;
+    color:#f8fafc;
+    padding:10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+}
+.visit-button:hover{
+    background-color: #1a4097;
+}
+.visit{
+    background-color: #1a2f61;
+    color:#f8fafc;
+    padding:10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+}
+.visit:hover{
+    background-color: #1a4097;
+}
+.code{
+     background-color: #1a2f61;
+    color:#f8fafc;
+    padding:10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+}
+.code:hover{
+     background-color: #1a4097;
+}
+.error{
+    text-align: center;
+}
+.error-button{
+     background-color: #1a2f61;
+    color:#f8fafc;
+    padding:10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+}
+.error-button:hover{
+     background-color: #1a4097;
+}
